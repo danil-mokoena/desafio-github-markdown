@@ -88,6 +88,7 @@ Ulysses - Alfred Tennyson
 ## Alteração feita por Colaborador
 
 Esta alteração foi feita pela minha segunda conta, para cumprir o requisito de uma alteração feita por um colaborador, seguida de um commit e push.
+Esta alteração foi feita na conta secundária, para que seja forçado um pull request.
 
 ### Obrigado pela sua visita ao meu repositório de testes para este projeto, e pelo tempo dedicado em avaliá-lo!
 
