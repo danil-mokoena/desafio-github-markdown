@@ -12,8 +12,8 @@
 - [X] Adicionar um colaborador ao repositório.<br>
 - [X] Ambos devem clonar o repositório em suas máquinas locais. <br>
 - [X] Realizar alterações e commits.<br>
-- [ ] Abrir Issues. <br>
-- [ ] Abrir Pull Requests. <br>
+- [X] Abrir Issues. <br>
+- [X] Abrir Pull Requests. <br>
 - [X] Editar o arquivo README.me dentro do repositório.<br>
 - [X] Utilizar linguagem Markdown para formatar informações sobre o desafio, instruções, e uma breve descrição do projeto. <br>
 - [X] Autenticação por algum método de segurança oferecido pelo GitHub. <br>
