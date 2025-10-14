@@ -79,9 +79,11 @@ Ulysses - Alfred Tennyson
 ## Tecnologias Utilizadas
 
 
-<img alt="Github + VS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="100px" height="100px"/> 
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" height="100px"/>
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px" height="100px"/>
+<div>
+    <img alt="Github + VS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="100px" height="100px"/> 
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" height="100px"/>
+    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px" height="100px"/>
+</div>
 
 
 ### Obrigado pela sua visita ao meu repositório de testes para este projeto, e pelo tempo dedicado em avaliá-lo!
