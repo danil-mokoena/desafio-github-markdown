@@ -9,11 +9,11 @@
 - [X] Adicionar o README.md ao criar o repositório, para que possa ser editado.<br>
 - [X] Utilizar o github.dev para editar o arquivo README.md dentro do repositório, diretamente do editor Web do GitHub.<br>
 - [X] O repositório deve ser público.<br>
-- [] Adicionar um colaborador ao repositório.<br>
-- [X]Ambos devem clonar o repositório em suas máquinas locais. <br>
+- [ ] Adicionar um colaborador ao repositório.<br>
+- [X] Ambos devem clonar o repositório em suas máquinas locais. <br>
 - [X] Realizar alterações e commits.<br>
-- [] Abrir Issues. <br>
-- [] Abrir Pull Requests. <br>
+- [ ] Abrir Issues. <br>
+- [ ] Abrir Pull Requests. <br>
 - [X] Editar o arquivo README.me dentro do repositório.<br>
 - [X] Utilizar linguagem Markdown para formatar informações sobre o desafio, instruções, e uma breve descrição do projeto. <br>
 - [X] Autenticação por algum método de segurança oferecido pelo GitHub. <br>
