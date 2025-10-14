@@ -18,3 +18,14 @@
 ✅ Utilizar linguagem Markdown para formatar informações sobre o desafio, instruções, e uma breve descrição do projeto. <br>
 ✅ Autenticação por algum método de segurança oferecido pelo GitHub. <br>
 ✅ Editar o README.md do meu perfil. <br>
+
+## Testando Tabelas
+
+|Final Fantasy IX       |Baldur's Gate 3              |
+|--------------|--------------|
+| <img src="image-5.png" alt="Final Fantasy IX" width="450px" height="300px"> | <img src="image-6.png" alt="Baldur's Gate 3" width="450px" height="300px"> |
+| <a href="https://youtu.be/Ye7BGnlTZmQ?si=wrsJSrfWo251u2Qj">Tema Principal</a>| <a href="https://www.youtube.com/watch?v=Vofkw9-O18c&list=RDVofkw9-O18c&start_radio=1">Tema Principal</a> |
+
+### Testando um workaround para o Embed de vídeos.
+
+[![Testando o embed](https://img.youtube.com/vi/I4O5CVvwgFI/0.jpg)](https://www.youtube.com/watch?v=I4O5CVvwgFI)
