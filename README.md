@@ -9,7 +9,7 @@
 - [X] Adicionar o README.md ao criar o repositório, para que possa ser editado.<br>
 - [X] Utilizar o github.dev para editar o arquivo README.md dentro do repositório, diretamente do editor Web do GitHub.<br>
 - [X] O repositório deve ser público.<br>
-- [ ] Adicionar um colaborador ao repositório.<br>
+- [X] Adicionar um colaborador ao repositório.<br>
 - [X] Ambos devem clonar o repositório em suas máquinas locais. <br>
 - [X] Realizar alterações e commits.<br>
 - [ ] Abrir Issues. <br>
@@ -85,6 +85,9 @@ Ulysses - Alfred Tennyson
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px" height="100px"/>
 </div>
 
+## Alteração feita por Colaborador
+
+Esta alteração foi feita pela minha segunda conta, para cumprir o requisito de uma alteração feita por um colaborador, seguida de um commit e push.
 
 ### Obrigado pela sua visita ao meu repositório de testes para este projeto, e pelo tempo dedicado em avaliá-lo!
 
