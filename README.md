@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Repositório para o Desafio Github Markdown!
 
-<h1> <img src="image-2.png" alt="GitHub" width="200px" height="200px"> </h1>
+<h1> <img src="image-1.png" alt="GitHub" width="200px" height="200px"> </h1>
 
 #### Olá! Meu nome é Daniel, e este é o meu repositório para o desafio Github Markdown, da plataforma DIO. O desafio consiste em diversos passos para verificar a aptidão do aluno a conceitos básicos do Git e Github:
 
