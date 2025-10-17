@@ -1,6 +1,6 @@
-# Bem-vindo ao meu Repositório para o Desafio Github/DIO Markdown!
+# Bem-vindo ao meu Repositório para o Desafio Github Markdown!
 
-<h1> <img src="image-4.png" alt="GitHub" width="500px" height="200px"> <img src="image-2.png" alt="GitHub" width="200px" height="200px"> </h1>
+<h1> <img src="image-2.png" alt="GitHub" width="200px" height="200px"> </h1>
 
 #### Olá! Meu nome é Daniel, e este é o meu repositório para o desafio Github Markdown, da plataforma DIO. O desafio consiste em diversos passos para verificar a aptidão do aluno a conceitos básicos do Git e Github:
 
@@ -83,6 +83,7 @@ Ulysses - Alfred Tennyson
     <img alt="Github + VS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="100px" height="100px"/> 
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" height="100px"/>
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px" height="100px"/>
+    <img alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="100px" height="100px"/>          
 </div>
 
 ## Alteração feita por Colaborador
